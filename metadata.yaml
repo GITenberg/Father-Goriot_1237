@@ -1,0 +1,107 @@
+_repo: Father-Goriot_1237
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Marriage, Ellen
+    gutenberg_agent_id: '701'
+    url: http://www.gutenberg.org/2009/agents/701
+creator:
+  author:
+    agent_name: Balzac, Honoré de
+    aliases:
+    - Balzac, H. de (Honoré de)
+    - Saint-Aubin, Horace de
+    - Balzac, Honore de
+    - De Balzac, Honoré
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+description: "Le Père Goriot (French pronunciation: ​[lə pɛʁ ɡɔʁjo], Old Goriot or\
+  \ Father Goriot) is an 1835 novel by French novelist and playwright Honoré de Balzac\
+  \ (1799–1850), included in the Scènes de la vie privée section of his novel sequence\
+  \ La Comédie humaine. Set in Paris in 1819, it follows the intertwined lives of\
+  \ three characters: the elderly doting Goriot; a mysterious criminal-in-hiding named\
+  \ Vautrin; and a naive law student named Eugène de Rastignac.\nOriginally published\
+  \ in serial form during the winter of 1834/35, Le Père Goriot is widely considered\
+  \ Balzac's most important novel. It marks the first serious use by the author of\
+  \ characters who had appeared in other books, a technique that distinguishes Balzac's\
+  \ fiction. The novel is also noted as an example of his realist style, using minute\
+  \ details to create character and subtext.\nThe novel takes place during the Bourbon\
+  \ Restoration, which brought profound changes to French society; the struggle by\
+  \ individuals to secure a higher social status is a major theme in the book. The\
+  \ city of Paris also impresses itself on the characters – especially young Rastignac,\
+  \ who grew up in the provinces of southern France. Balzac analyzes, through Goriot\
+  \ and others, the nature of family and marriage, providing a pessimistic view of\
+  \ these institutions.\nThe novel was released to mixed reviews. Some critics praised\
+  \ the author for his complex characters and attention to detail; others condemned\
+  \ him for his many depictions of corruption and greed. A favorite of Balzac's, the\
+  \ book quickly won widespread popularity and has often been adapted for film and\
+  \ the stage. It gave rise to the French expression \"Rastignac\", a social climber\
+  \ willing to use any means to better his situation.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Harvard Classics
+- Best Books Ever Listings
+gutenberg_issued: '2004-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1237'
+  wikidata: Q240617
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- Translations into English'
+- !lcsh 'Paris (France) -- Fiction'
+- !lcsh 'Older men -- Fiction'
+- !lcsh 'France -- History -- Louis XVIII, 1814-1824 -- Fiction'
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: Father Goriot
+url: http://www.gutenberg.org/ebooks/1237
+wikipedia:
+- https://fi.wikipedia.org/wiki/Ukko_Goriot
+- https://eo.wikipedia.org/wiki/Patro_Goriot
+- https://pa.wikipedia.org/wiki/%E0%A8%AC%E0%A9%81%E0%A8%A2%E0%A8%BE_%E0%A8%97%E0%A9%8B%E0%A8%B0%E0%A9%80%E0%A8%93
+- https://fr.wikiversity.org/wiki/Le_P%C3%A8re_Goriot
+- https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%A8%D8%A7_%DA%AF%D9%88%D8%B1%DB%8C%D9%88
+- https://vi.wikipedia.org/wiki/L%C3%A3o_Goriot
+- https://en.wikisource.org/wiki/Father_Goriot
+- https://pl.wikisource.org/wiki/Ojciec_Goriot
+- https://fr.wikisource.org/wiki/Le_P%C3%A8re_Goriot
+- https://sv.wikipedia.org/wiki/Pappa_Goriot
+- https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%AA%E3%82%AA%E7%88%BA%E3%81%95%E3%82%93
+- https://pt.wikipedia.org/wiki/Le_P%C3%A8re_Goriot
+- https://es.wikipedia.org/wiki/Pap%C3%A1_Goriot
+- https://sk.wikipedia.org/wiki/Otec_Goriot
+- https://hy.wikipedia.org/wiki/%D5%80%D5%A1%D5%B5%D6%80_%D4%B3%D5%B8%D6%80%D5%AB%D5%B8
+- https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D0%B5%D1%86_%D0%93%D0%BE%D1%80%D0%B8%D0%BE
+- https://ko.wikipedia.org/wiki/%EA%B3%A0%EB%A6%AC%EC%98%A4_%EC%98%81%EA%B0%90
+- https://fr.wikipedia.org/wiki/Le_P%C3%A8re_Goriot
+- https://zh.wikipedia.org/wiki/%E9%AB%98%E8%80%81%E9%A0%AD
+- https://hr.wikiquote.org/wiki/%C4%8Ci%C4%8Da_Goriot
+- https://en.wikipedia.org/wiki/P%C3%A8re_Goriot
+- https://pl.wikipedia.org/wiki/Ojciec_Goriot
+- https://hu.wikipedia.org/wiki/Goriot_ap%C3%B3
+- https://ru.wikiquote.org/wiki/%D0%9E%D1%82%D0%B5%D1%86_%D0%93%D0%BE%D1%80%D0%B8%D0%BE
+- https://sq.wikipedia.org/wiki/Xha_Gorio
+- https://mk.wikipedia.org/wiki/%D0%A7%D0%B8%D1%87%D0%BA%D0%BE_%D0%93%D0%BE%D1%80%D0%B8%D0%BE
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A3%D8%A8_%D8%BA%D9%88%D8%B1%D9%8A%D9%88
+- https://nl.wikipedia.org/wiki/Le_P%C3%A8re_Goriot
+- https://sl.wikipedia.org/wiki/O%C4%8De_Goriot
+- https://cs.wikipedia.org/wiki/Otec_Goriot
+- https://de.wikipedia.org/wiki/Vater_Goriot
+- https://lv.wikipedia.org/wiki/Gorio_t%C4%93vs
+- https://sr.wikipedia.org/wiki/%D0%A7%D0%B8%D1%87%D0%B0_%D0%93%D0%BE%D1%80%D0%B8%D0%BE
+- https://bg.wikipedia.org/wiki/%D0%94%D1%8F%D0%B4%D0%BE_%D0%93%D0%BE%D1%80%D0%B8%D0%BE
+- https://it.wikipedia.org/wiki/Pap%C3%A0_Goriot
+- https://no.wikipedia.org/wiki/Far_Goriot
+- https://hr.wikipedia.org/wiki/Otac_Goriot
+- https://ca.wikipedia.org/wiki/El_pare_Goriot
+- https://tr.wikipedia.org/wiki/Goriot_Baba
+- https://he.wikipedia.org/wiki/%D7%90%D7%91%D7%90_%D7%92%D7%95%D7%A8%D7%99%D7%95
