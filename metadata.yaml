@@ -1,10 +1,13 @@
 _repo: Father-Goriot_1237
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Marriage, Ellen
     gutenberg_agent_id: '701'
     url: http://www.gutenberg.org/2009/agents/701
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Balzac, Honoré de
@@ -42,6 +45,8 @@ description: "Le Père Goriot (French pronunciation: ​[lə pɛʁ ɡɔʁjo], Ol
   \ book quickly won widespread popularity and has often been adapted for film and\
   \ the stage. It gave rise to the French expression \"Rastignac\", a social climber\
   \ willing to use any means to better his situation.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1237#Father-Goriot
 gutenberg_bookshelf:
 - Harvard Classics
 - Best Books Ever Listings
